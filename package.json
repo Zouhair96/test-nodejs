@@ -1,0 +1,8 @@
+{
+  "name": "test-nodejs",
+  "scripts": {
+    "build": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {}
+}
